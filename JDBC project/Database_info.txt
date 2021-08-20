@@ -1,0 +1,7 @@
+database name :  studentinfo
+table name: students
+Table column 4: 
+1) id
+2) fname 
+3) course 
+4) fee
